@@ -1,0 +1,17 @@
+C:\Users\edan\source\repos\Helios DrawingBoard\Helios DrawingBoard\bin\Debug\Helios DrawingBoard.exe.config
+C:\Users\edan\source\repos\Helios DrawingBoard\Helios DrawingBoard\bin\Debug\Helios DrawingBoard.exe
+C:\Users\edan\source\repos\Helios DrawingBoard\Helios DrawingBoard\bin\Debug\Helios DrawingBoard.pdb
+C:\Users\edan\source\repos\Helios DrawingBoard\Helios DrawingBoard\bin\Debug\Helios DrawingBoard.xml
+C:\Users\edan\source\repos\Helios DrawingBoard\Helios DrawingBoard\obj\Debug\Helios DrawingBoard.vbprojAssemblyReference.cache
+C:\Users\edan\source\repos\Helios DrawingBoard\Helios DrawingBoard\obj\Debug\Helios_DrawingBoard.frmDrawingBoard.resources
+C:\Users\edan\source\repos\Helios DrawingBoard\Helios DrawingBoard\obj\Debug\Helios_DrawingBoard.Resources.resources
+C:\Users\edan\source\repos\Helios DrawingBoard\Helios DrawingBoard\obj\Debug\Helios DrawingBoard.vbproj.GenerateResource.cache
+C:\Users\edan\source\repos\Helios DrawingBoard\Helios DrawingBoard\obj\Debug\Helios DrawingBoard.vbproj.CoreCompileInputs.cache
+C:\Users\edan\source\repos\Helios DrawingBoard\Helios DrawingBoard\obj\Debug\Helios DrawingBoard.exe
+C:\Users\edan\source\repos\Helios DrawingBoard\Helios DrawingBoard\obj\Debug\Helios DrawingBoard.xml
+C:\Users\edan\source\repos\Helios DrawingBoard\Helios DrawingBoard\obj\Debug\Helios DrawingBoard.pdb
+C:\Users\edan\source\repos\Helios DrawingBoard\Helios DrawingBoard\bin\Debug\Helios DrawingBoard.exe.manifest
+C:\Users\edan\source\repos\Helios DrawingBoard\Helios DrawingBoard\bin\Debug\Helios DrawingBoard.application
+C:\Users\edan\source\repos\Helios DrawingBoard\Helios DrawingBoard\obj\Debug\Helios DrawingBoard.TrustInfo.xml
+C:\Users\edan\source\repos\Helios DrawingBoard\Helios DrawingBoard\obj\Debug\Helios DrawingBoard.exe.manifest
+C:\Users\edan\source\repos\Helios DrawingBoard\Helios DrawingBoard\obj\Debug\Helios DrawingBoard.application
